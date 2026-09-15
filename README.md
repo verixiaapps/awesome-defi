@@ -106,6 +106,8 @@
 - **[DeFi Guide by CoinGecko](https://www.coingecko.com/en/learn/defi-guide)** - A comprehensive guide to getting started with DeFi.
 - **[The Defiant](https://thedefiant.io/)** - A news and analysis platform focused on DeFi.
 - **[CryptoZombies DeFi Course](https://cryptozombies.io/)** - A gamified platform for learning about DeFi and smart contracts.
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 8 EVM chains plus a keyless REST API.
+
 
 ## Community and Forums
 
